@@ -5,5 +5,5 @@ Pixel wise classification of elements (road, buildings, sky, sidewalk, and etc) 
 ~Skip connections are used to prevent border pixel information loss and overfitting in U-Net
 semantic image segmentation is a very important task for self-driving cars to get right.
 
-#####NOTE##### If you have issues loading the notebook on github(as github have some backend malefunctions loading Jupyter notebook files) you can see the codes from nbviewer link below.
+#####NOTE##### If you have issues loading the notebook on github (as github have some backend malefunctions loading Jupyter notebook files) you can see the codes from nbviewer :
 https://nbviewer.org/github/A-Arhami/Car-Vision-Image-segmentation/blob/main/Road_view_Image_segmentation_CNN_UNet.ipynb
